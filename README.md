@@ -5,7 +5,7 @@
 🛠️ Developing an iOS app in SwiftUI for my Graded Unit
 
 ![](https://github-readme-stats.vercel.app/api?username=danielmcfarlane&rank_icon=github&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=true&hide=contribs)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmcfarlane&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=css,html,javascript&size_weight=0.5&count_weight=0.5)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmcfarlane&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=20)  
 <!--![](https://nirzak-streak-stats.vercel.app/?user=danielmcfarlane&theme=catppuccin_mocha&hide_border=true)-->
 
 # 💻 Tech Stack
