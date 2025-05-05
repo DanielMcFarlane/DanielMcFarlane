@@ -4,10 +4,6 @@
 👩🏻‍💻 Primarily working with Java  
 🛠️ Developing an iOS app in SwiftUI for my Graded Unit
 
-![](https://github-readme-stats.vercel.app/api?username=danielmcfarlane&rank_icon=github&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=true&hide=contribs)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmcfarlane&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=20)  
-<!--![](https://nirzak-streak-stats.vercel.app/?user=danielmcfarlane&theme=catppuccin_mocha&hide_border=true)-->
-
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -18,3 +14,8 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=danielmcfarlane&rank_icon=github&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=true&hide=contribs)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmcfarlane&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=20)  
+![](https://nirzak-streak-stats.vercel.app/?user=danielmcfarlane&theme=catppuccin_mocha&hide_border=true)-->
