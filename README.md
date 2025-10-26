@@ -3,12 +3,11 @@
 🎓 Software Development student at Glasgow Caledonian University  
 🔊 Previously studied Sound Production  
 👨‍💻 Primarily working with Java  
-🌱 Developing a carbon footprint tracker website as part of a group project  
+🖥️ Currently focused on university studies and coursework
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="40" style="vertical-align:middle;" /> Tech Stack
 
-![skills](https://skillicons.dev/icons?i=java,swift,python,js,nodejs,cs,dotnet,docker,figma)
-
+![skills](https://skillicons.dev/icons?i=java,swift,scala,python,js,nodejs,cs,dotnet,docker,figma)
 
 <!--
 ## <img src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif" width="40" style="vertical-align:middle;" /> Tech Stack
